@@ -1,0 +1,6 @@
+[submodule "FAFFT_HQC"]
+	path = IEEE_IoT25_FAFFT/code
+	url = https://github.com/myhoon/FAFFT_HQC.git
+[submodule "HQC_with_addFFT_tches2026"]
+	path = TCHES26_addFFT/code
+	url = https://github.com/ChunTaoPengim/HQC_with_addFFT_tches2026.git
